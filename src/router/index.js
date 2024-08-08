@@ -14,7 +14,7 @@ const routes = [
   {
     path: '/about',
     name: 'about',
-    component: AboutView
+    component: () => import('../views/AboutView.vue') //Lazy loaded Component
   },
   {
     path: '/jobs',
