@@ -1,5 +1,7 @@
 # sample-jobs-app
 
+A simple Jobs SPA with routing and utilized json-server to demonstrate vue-based API fetching.
+
 ## Project setup
 
 ```
