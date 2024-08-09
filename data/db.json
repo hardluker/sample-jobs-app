@@ -1,7 +1,19 @@
 {
   "jobs": [
-    { "title": "Ninja UX Designer", "id": 1, "details": "lorem" },
-    { "title": "Ninja Web Developer", "id": 2, "details": "lorem" },
-    { "title": "Ninja Vue Developer", "id": 3, "details": "lorem" }
+    {
+      "title": "UX Designer",
+      "id": 1,
+      "details": "A UX designer focuses on creating intuitive and engaging user experiences by understanding user needs, behaviors, and pain points. They design and iterate on wireframes, prototypes, and interfaces to ensure seamless interaction between users and digital products. Their role involves close collaboration with developers, product managers, and other stakeholders to deliver user-centered solutions"
+    },
+    {
+      "title": "Ninja Web Developer",
+      "id": 2,
+      "details": "A Web Developer builds and maintains websites by writing clean, efficient code using programming languages like HTML, CSS, and JavaScript. They ensure websites are functional, responsive, and optimized for performance across various devices and browsers. Their role often involves collaboration with designers and back-end developers to create seamless and visually appealing web experiences."
+    },
+    {
+      "title": "Ninja Vue Developer",
+      "id": 3,
+      "details": "A Vue Developer specializes in building user interfaces and single-page applications using the Vue.js framework. They create dynamic and responsive front-end components, leveraging Vue's reactive data binding and component-based architecture. Their role includes optimizing performance, integrating APIs, and collaborating with back-end developers to deliver efficient and scalable web applications."
+    }
   ]
 }
